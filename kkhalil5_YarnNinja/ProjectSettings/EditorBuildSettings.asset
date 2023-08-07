@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Screen.unity
+    guid: 951eff7442901e549b013b21ec96f03f
+  - enabled: 1
+    path: Assets/Scenes/Lore & Controls.unity
+    guid: 84dce79fc410b6c45b989dac98437ab5
+  - enabled: 1
+    path: Assets/Scenes/Level Select.unity
+    guid: 78682b598b590d243a977d57d497d8b9
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 9da610d796596224093d50036d393fcd
+  - enabled: 1
+    path: Assets/Scenes/1to2.unity
+    guid: 9f01f4c9c9bd68649870438425fefb5f
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/2to3.unity
+    guid: 849c94eccf413db499bfbf455c467bda
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: edc99cc81a12d874295de3c5f952d335
+  - enabled: 1
+    path: Assets/Scenes/3to4.unity
+    guid: 3f02c41737707f347865f9742d818337
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: cd349e24202150b4d94aee7d7674c189
+  - enabled: 1
+    path: Assets/Scenes/End Screen.unity
+    guid: f9972a0f8a80bf44d9c36a0850ef018a
+  m_configObjects: {}
